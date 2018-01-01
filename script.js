@@ -7,6 +7,7 @@ console.log(ins.getName());*/
 
 var col = [12,1,3,9,7,5];
 res = [];
+console.log(col);
 //var size = col.length-1;
 
 /*for(var i=0;i<col.length * col.length-1;i++){
